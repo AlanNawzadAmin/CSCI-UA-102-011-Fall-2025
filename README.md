@@ -118,7 +118,7 @@ Recursion and trees
 
 In textbook: 8.5, 11, 12, 13, 18, 19, 20, 22, 23, 27, 42, 45, 58.
 
-### Class 12, Oct 14
+### Class 12, Oct 14 (Note we meet on Tuesday!)
 
 #### Assignment 4 (Trees) due
 
