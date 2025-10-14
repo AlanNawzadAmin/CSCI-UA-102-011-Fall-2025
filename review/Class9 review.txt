@@ -1,0 +1,10 @@
+
+-- Recursion --
+Write down the recursive relationships used to create our two methods to calculate the fibonacci numbers. How did using an auxiliary variable make our code faster?
+
+-- Trees --
+What are the methods of Position<E>?
+What is a root, leaf, parent, child in a tree? What does it mean for a position to be internal or external? What is the depth and height of a position?
+What are the methods of Tree?
+What is the return type for children(Position<E> p)? Why?
+Write down the recursive relations we used to write methods to calculate height and depth.

@@ -1,0 +1,5 @@
+-- Trees --
+Write down the recursive relations we used to write methods to calculate height and depth.
+Write down the recursive relation we used to perform search.
+Write down the recursive relation we used to perform positions().
+Draw a tree with 5 nodes in your book with elements 1 to 5. Which order will breadth first search go through the nodes? How about depth first?
