@@ -166,3 +166,66 @@ Finish collision resolution. Binary search trees.
 
 In textbook: 11.1
 
+### Class 17, Oct 29
+
+Getting, adding and removing from BSTs. Implementing BSTs
+
+Reading: 11.1, 11.2
+
+### Section 9, Oct 31
+#### Quiz 7 (Binary search trees)
+
+Binary search trees
+
+In textbook: Qs 11.1, 2, 3, 4, 33
+
+### Enjoy your spring break!
+
+### Class 18, Nov 3
+
+Adding to AVL trees
+
+Reading: 11.3.
+
+### Class 19, Nov 5
+#### Assignment 6 (Using BSTs)  due
+
+Implementing AVL trees.
+
+Reading: 11.3.
+
+### Section 10, Nov 7
+#### Quiz 8 (BST implementation or AVL tree addition)
+
+BST implementation and AVL tree addition
+
+In textbook: 11.5, 8, 29
+
+
+### Class 20, Nov 10
+
+Quadratic sorts. O(nlog n) efficiency proof.
+
+Reading: 9.1, 9.2, 9.4.1, [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort), [bogo sort](https://en.wikipedia.org/wiki/Bogosort), 12.3.1
+
+### Class 21, Nov 12
+
+Bucketsort, and comparison of sorting algorithms.
+
+Reading: 12.3.2, 12.4
+
+### Section 11, Nov 14
+#### Quiz 9 (Sorting)
+
+Sorting
+
+In textbook: 12.6, 7, 26 -- do these questions for all the sorting algorithms we have covered
+
+
+### Class 22, Nov 17
+#### Assignment 7 (Sorting with priority queues)  due
+Mergesort. Heaps and Heapsort
+
+Reading: 12.1. 9.3, 9.4
+
+
