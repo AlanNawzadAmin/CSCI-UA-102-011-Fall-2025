@@ -179,8 +179,6 @@ Binary search trees
 
 In textbook: Qs 11.1, 2, 3, 4, 33
 
-### Enjoy your spring break!
-
 ### Class 18, Nov 3
 
 Adding to AVL trees
