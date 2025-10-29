@@ -1,7 +1,6 @@
 
--- Hash Maps --
+-- Map ADT --
+Give two examples of data that might be put into a map.
 What are the methods of map?
-How did we implement them for UnsortedMap<K, V>?
-What is a hash code? A compression function?
-Describe good hash codes for the types int, char, double, and string.
-Why do we have to resolve collisions in a hash map?
+Describe get in our implementation of UnsortedMap. What is the complexity of these methods?
+How did we implement values() and keyList()?
