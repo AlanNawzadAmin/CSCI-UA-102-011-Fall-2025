@@ -227,3 +227,62 @@ Mergesort. Heaps and Heapsort
 Reading: 12.1. 9.3, 9.4
 
 
+### Class 23, Nov 19
+
+Heaps and Heapsort continued.
+
+Reading: 9.3, 9.4
+
+### Section 12, Nov 21
+#### Quiz 10 (Efficient Sorting)
+
+Efficient Sorting
+
+In textbook: 12.6, 7, 18, 20-23, 35-37, 39, 42, 43, 46, 47
+
+### Class 24, Nov 24
+#### Assignment 8 (Radix sort)  due
+
+Graphs and their implementations.
+
+Reading: 9.3, 9.4, 14.1, 14.2
+
+### Section 13, Nov 26
+#### Quiz 11 (Graphs)
+
+Graphs
+
+In textbook: 14.1-11, 38
+
+### Class 25, Dec 1
+#### Assignment 9 (Heaps) due
+
+Graph implementations cont. Searching graphs.
+
+Reading: 14.1, 14.2, 14.3
+
+### Section 14, Dec 3
+#### Quiz 12 (Graph search)
+
+Graph search
+
+Textbook Qs for graph search: 14.12-16, 39, 42-44
+
+### Section 15, Dec 5
+Makeup quizzes (make sure you've filled out the form in the syllabus!)!
+
+### Class 26, Dec 8
+#### Assignment 10 (Graph implementations) due
+
+Quicksort
+
+Reading: 12.2
+
+### Class 26, Dec 10
+
+Searching graphs.
+
+Reading: 14.3
+
+
+

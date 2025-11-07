@@ -1,0 +1,5 @@
+
+-- Binary search trees --
+What is the definition of a binary search tree?
+How do you perform get in a BST?
+Perform put(24, V), put(12, V), put(42, V), put(16, V), remove(50), remove(45) for the tree on the board.

@@ -1,0 +1,6 @@
+
+-- Binary search trees --
+What is the definition of a balanced tree?
+What are the steps to perform put for an AVL tree?
+Add the numbers 1 through 15 to an AVL tree.
+Rotate 15 to the top of the tree.
