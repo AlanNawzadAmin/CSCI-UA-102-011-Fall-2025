@@ -1,0 +1,5 @@
+
+-- Binary search trees --
+What are the steps to perform, get, put, remove for a regular BST and an AVL tree?
+What are the steps of put for an AVL tree? How about remove?
+How does tri-node restructuring work?
