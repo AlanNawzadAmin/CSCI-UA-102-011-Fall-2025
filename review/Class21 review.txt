@@ -1,0 +1,8 @@
+
+-- Sorting -- 
+
+What's the a best sorting algorithm which compares elements can do in terms of asymptotic computational complexity?
+
+How does bucket sort work? It's possible to extend bucket sort to sort lists which don't have all the integers from 0, ..., N, bot only some of them; describe how.
+
+Write out the method for merge. How does merge-sort work?

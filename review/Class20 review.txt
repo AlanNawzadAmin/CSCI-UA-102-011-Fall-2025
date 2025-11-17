@@ -1,0 +1,11 @@
+
+-- Sorting -- 
+Describe an algorithm to check if a list is sorted. What is the complexity of this algorithm?
+
+What are the best and worst case asymptotic computational complexities of insertion sort, selection sort, and bubble sort?
+
+Say we wish to sort 2, 1, 4, 3, 6, 5. Write out the list after each sweep of bubble sort. Write out the list after each addition in insertion and selection sort.
+
+What's the best a sorting algorithm which compares elements can do in terms of asymptotic computational complexity?
+
+Write out the decision tree for bubble sort on a_1, a_2, a_3
