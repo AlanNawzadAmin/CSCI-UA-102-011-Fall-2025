@@ -1,0 +1,15 @@
+
+-- Sorting -- 
+Add 1, 2, ..., 10 to a heap and then remove them all. Do the same with 10, 9, ..., 1.
+
+How do you check if a position in a heap is a leaf?
+
+-- Graphs --
+
+What is a node / vertex? What is an edge?
+
+What is the different between a directed and undirected graph?
+
+What is a dense vs sparse graph?
+
+How can we represent a tree as a graph? How about a list?
