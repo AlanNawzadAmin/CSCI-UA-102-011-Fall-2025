@@ -1,0 +1,15 @@
+
+
+-- Graphs --
+
+What is a node / vertex? What is an edge?
+
+What is the different between a directed and undirected graph?
+
+What is a dense vs sparse graph?
+
+How can we represent a tree as a graph? How about a list?
+
+What are the methods of Graph?
+
+How did we implement a graph?
