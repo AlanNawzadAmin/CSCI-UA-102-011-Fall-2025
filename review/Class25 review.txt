@@ -1,0 +1,7 @@
+
+-- Graph search --
+What order does DFS visit the nodes of the graph on the board.
+Write out Breadth first search in a graph using a queue.
+Say whenever we see a new vertex in DFS or BFS we add the edge that connected it to the previous vertex to a list. What can we say about the graph we get at the end? What vertices will it contain? Will it have any loops?
+Write out an algorithm to find out if a node v is part of a directed cycle.
+Can we swap out Stack or Queue for a priority queue?
